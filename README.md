@@ -33,6 +33,13 @@ Begin by installing the library via your preferred package manager, then follow 
 
 ## Add Function ( Simple code )
 
+### Label Group
+Tag/Label Member Grop
+
+```javascript
+sock.setLabelGroup(jid, string)
+```
+---
 ### Check ID Channel 
 Get ID Channel From Url
 
