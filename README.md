@@ -1,3 +1,16 @@
+# Archived: moved to @konaa/baileys
+
+This repository is archived and no longer maintained.
+
+Development has moved to the maintained Baileys compatibility repository:
+
+- GitHub: https://github.com/KonaimaV2/baileys
+- npm: https://www.npmjs.com/package/@konaa/baileys
+
+Please use `@konaa/baileys` for new installs and updates. The new repository keeps current Baileys RC behavior while adding compatibility shims for older Kiu/MikirBot-style plugins.
+
+---
+
 # WhatsApp Baileys
 
 <p align="center">
